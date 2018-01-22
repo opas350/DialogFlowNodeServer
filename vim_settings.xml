@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1516607016719">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/package.json" timestamp="1514593032276">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -85,6 +88,9 @@
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
+      </file>
+      <file name="vcs.xml" timestamp="1516606992430">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/SodaBot-Serv/bin/www" timestamp="1510562971834">
         <mark key="[" line="21" column="36" />
