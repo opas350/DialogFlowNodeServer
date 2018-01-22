@@ -30,9 +30,13 @@ app.listen(app.get("port"), ()=> {
 		logger.info('App running in 3000....');
 });
 
-app.post('/webhool', (req, res) => {
+app.post('/webhook', (request, response) => {
 
-		const DialogApp = new DialogflowApp({req, res});
+		const DialogApp = new DialogflowApp({request, response});
+
+
+		logger.info('Request Headers: ' + JSON.stringify(request.headers));
+		logger.info('Request body: ' + JSON.stringify(request.body));
 
 
 });
