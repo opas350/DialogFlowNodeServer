@@ -33,6 +33,13 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/git/safeCar-Serv/src/index.js" timestamp="1516683011842">
+        <mark key="'" line="40" column="53" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/server.ts" timestamp="1514673962659">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="19" column="3" />
@@ -70,8 +77,8 @@
       <file name="$USER_HOME$/git/sodaBot-Repo2/tsconfig.json" timestamp="1514499785852">
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516607134336">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
+        <mark key="[" line="14" column="23" />
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
@@ -161,13 +168,14 @@
       <jump line="54" column="0" filename="$USER_HOME$/git/sodaBot-Repo2/src/server.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/git/safeCar-Serv/index.js" />
       <jump line="15" column="29" filename="$USER_HOME$/git/safeCar-Serv/index.js" />
+      <jump line="39" column="53" filename="$USER_HOME$/git/safeCar-Serv/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>headers</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>headers</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>randNum</text>
@@ -180,6 +188,9 @@
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJCWxhYmVsOiAnRGVmYXVsdCBsb2dnZXInLAo=</text>
+      </register>
+      <register name="r" type="4">
+        <text />
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygnUnVubmluZyBvbiBwb3J0IDMwMDAuLi4uJyk7Cg==</text>
