@@ -1,0 +1,24 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/body-parser" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/request" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/winston" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
