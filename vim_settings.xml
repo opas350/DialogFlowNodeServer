@@ -33,12 +33,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/src/index.js" timestamp="1517104499794">
-        <mark key="'" line="62" column="53" />
-        <mark key="[" line="14" column="90" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-        <mark key="^" line="15" column="2" />
+      <file name="$USER_HOME$/git/safeCar-Serv/src/index.js" timestamp="1517124123834">
+        <mark key="'" line="64" column="53" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/server.ts" timestamp="1514673962659">
         <mark key="'" line="19" column="0" />
@@ -120,11 +119,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQltYWtlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>randNum</text>
@@ -133,34 +132,34 @@
         <text encoding="base64">ZnVuY3Rpb24gc2hvcHBpbmdDYXJ0VG9KU09OKHNob3BwaW5nQ2FydE9yaWdpbmFsKSB7CiAgICBzaG9wcGluZ0NhcnRPcmlnaW5hbC5mb3JFYWNoKCh2YWx1ZSwga2V5KSA9PiB7CiAgICAgICAgb3JkZXJKU09OW2tleV0gPSB2YWx1ZTsKICAgIH0pOwoKICAgIHJldHVybiBvcmRlckpTT047Cn0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuREVCVUcgPSAnYWN0aW9ucy1vbi1nb29nbGUnOwo=</text>
+        <text encoding="base64">CQltYWtlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVlc3QoJ2JvZHktcGFyc2VyJyk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgYXBwID0gZXhwcmVzcygpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVlc3QoJ2JvZHktcGFyc2VyJyk7Cg==</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuREVCVUcgPSAnYWN0aW9ucy1vbi1nb29nbGUnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVlc3QoJ2JvZHktcGFyc2VyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVlc3QoJ2JvZHktcGFyc2VyJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkpCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
