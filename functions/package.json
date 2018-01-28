@@ -3,20 +3,24 @@
   "version": "0.0.1",
   "author": "opas350",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "firebaseLocal": "firebase serve --only functions"
   },
   "dependencies": {
     "actions-on-google": "^1.7.0",
     "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
     "chalk": "^2.3.0",
     "express": "^4.16.2",
+    "firebase-admin": "^5.8.1",
+    "firebase-functions": "^0.8.1",
     "request": "^2.83.0",
     "typescript": "^2.6.2",
-    "winston": "^2.4.0",
-    "body-parser": "^1.18.2"
+    "winston": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "^4.16.0",
-    "eslint-config-google": "^0.9.1"
+    "eslint-config-google": "^0.9.1",
+    "nodemon": "^1.14.11"
   }
 }
