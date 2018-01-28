@@ -33,12 +33,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/src/index.js" timestamp="1517103406000">
-        <mark key="'" line="59" column="53" />
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="60" />
-        <mark key="^" line="11" column="60" />
+      <file name="$USER_HOME$/git/safeCar-Serv/src/index.js" timestamp="1517104499794">
+        <mark key="'" line="62" column="53" />
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/server.ts" timestamp="1514673962659">
         <mark key="'" line="19" column="0" />
@@ -120,11 +120,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuREVCVUcgPSAnYWN0aW9ucy1vbi1nb29nbGUnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>randNum</text>
