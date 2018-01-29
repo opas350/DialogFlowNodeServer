@@ -82,11 +82,11 @@
       <file name="$USER_HOME$/git/sodaBot-Repo2/tsconfig.json" timestamp="1514499785852">
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/functions/index.js" timestamp="1517129204436">
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="18" />
+      <file name="$USER_HOME$/git/safeCar-Serv/functions/index.js" timestamp="1517206277142">
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="23" />
+        <mark key="^" line="68" column="23" />
+        <mark key="." line="68" column="23" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
@@ -135,10 +135,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>tell</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>tell</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>randNum</text>
@@ -150,31 +150,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhcHAuaGFuZGxlUmVxdWVzdChhY3Rpb25NYXApCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbyhjaGFsay5yZWQoJ1JlcXVlc3QgYm9keTogJyArIEpTT04uc3RyaW5naWZ5KHJlcXVlc3QuYm9keSkpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gY29uc3QgYXBwID0gZXhwcmVzcygpOwoKLy8gYXBwLnNldCgicG9ydCIsIDUwMDApOwoKLy8gYXBwLmdldCgnLycsIGZ1bmN0aW9uIChyZXEsIHJlcykgewovLyAJCWxvZ2dlci5pbmZvKCdIZWxsbycpOwovLyAgICAgcmVzLnNlbmQoJ0hlbGxvIFdvcmxkJyk7Ci8vIH0pOwoKLy8gYXBwLmxpc3RlbihhcHAuZ2V0KCJwb3J0IiksICgpPT4gewovLyAJCWxvZ2dlci5pbmZvKCdBcHAgcnVubmluZyBpbiA1MDAwLi4uLicpOwovLyB9KTsKCi8vIGFwcC5nZXQoJy91c2VycycsIGpzb25QYXJzZXIsIChyZXEsIHJlcykgPT4gewovLyAJCWxvZ2dlci5pbmZvKGNoYWxrLnJlZCgnSW4gdXNlcnMnKSk7Ci8vIAkJcmVzLmpzb24oWwovLyAJCQkJeyJpZCI6IDF9LAovLyAJCQkJeyJpZCI6IDJ9Ci8vIAkJXSkKLy8gfSk7CgovLyBhcHAucG9zdCgnL3dlYmhvb2snLCBqc29uUGFyc2VyLCAocmVxLCByZXNwb25zZSkgPT4gewovLwovLyAJCWNvbnN0IERpYWxvZ0FwcCA9IG5ldyBEaWFsb2dmbG93QXBwKHtyZXEsIHJlc3BvbnNlfSk7Ci8vCi8vCi8vIAkJbG9nZ2VyLmluZm8oJ1JlcXVlc3QgSGVhZGVyczogJyArIEpTT04uc3RyaW5naWZ5KHJlcS5oZWFkZXJzKSk7Ci8vIAkJbG9nZ2VyLmluZm8oJ1JlcXVlc3QgYm9keTogJyArIEpTT04uc3RyaW5naWZ5KHJlcS5ib2R5KSk7Ci8vCi8vIAkJcmVxdWVzdCgnaHR0cDovL2xvY2FsaG9zdDo1MDAwL3VzZXJzJywgKHJlcTEsIHJlczEsIGJvZHkxKSA9PiB7Ci8vIAkJCQlsb2dnZXIuaW5mbygnc3RhdHVzQ29kZTogJywgcmVzMSAmJiByZXMxLnN0YXR1c0NvZGUpOwovLyAJCQkJbG9nZ2VyLmluZm8oJ2JvZHkgOicsIGJvZHkxKTsKLy8gCQl9KQovLyB9KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlsb2dnZXIuaW5mbyhjaGFsay5yZWQoJ1JlcXVlc3QgaGVhZGVyczogJyArIEpTT04uc3RyaW5naWZ5KHJlcXVlc3QuaGVhZGVycykpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2dnZXIubG9nKGNoYWxrLnJlZCgnUmVxdWVzdCBoZWFkZXJzOiAnICsgSlNPTi5zdHJpbmdpZnkocmVxdWVzdC5oZWFkZXJzKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQltYWtlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXBwID0gZXhwcmVzcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuREVCVUcgPSAnYWN0aW9ucy1vbi1nb29nbGUnOwo=</text>
+        <text encoding="base64">CQljb25zdCBsb2dnZXIgPSB3aW5zdG9uLmxvZ2dlcnMuZ2V0KCdERUZBVUxUX0xPR0dFUicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
