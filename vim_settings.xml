@@ -162,6 +162,7 @@
       <jump line="52" column="26" filename="$USER_HOME$/git/safeCar-Serv/functions/node_modules/actions-on-google/dialogflow-app.js" />
       <jump line="104" column="2" filename="$USER_HOME$/git/safeCar-Serv/functions/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/safeCar-Serv/functions/index.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/git/safeCar-Serv/functions/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -247,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
