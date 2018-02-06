@@ -49,13 +49,13 @@
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" timestamp="1517899121956">
-        <mark key="'" line="254" column="37" />
-        <mark key="[" line="109" column="40" />
+      <file name="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" timestamp="1517902070163">
+        <mark key="'" line="312" column="0" />
+        <mark key="[" line="280" column="8" />
         <mark key="m" line="73" column="50" />
-        <mark key="]" line="109" column="40" />
-        <mark key="^" line="109" column="40" />
-        <mark key="." line="109" column="40" />
+        <mark key="]" line="280" column="11" />
+        <mark key="." line="280" column="11" />
+        <mark key="^" line="280" column="11" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/index.js" timestamp="1517213381816">
         <mark key="'" line="0" column="0" />
@@ -170,13 +170,18 @@
       <jump line="244" column="0" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
       <jump line="81" column="27" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
       <jump line="241" column="37" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
+      <jump line="267" column="0" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
+      <jump line="147" column="20" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
+      <jump line="192" column="0" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
+      <jump line="262" column="0" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
+      <jump line="312" column="0" filename="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>han</text>
@@ -194,41 +199,25 @@
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtJdGVtfSBmcm9tICIuL2l0ZW0iOwo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>class item {
-    envases: number;
-    numero: number;
-    empaque: string;
-    sabor: string;
-    
-    constructor(envases: number, numero: number, empaque: string, sabor: string) {
-        this.sabor = sabor;
-        this.envases = envases;
-        this.numero = numero;
-        this.empaque = empaque;
-    }
-    
-    info() {
-        return `sabor: ${this.sabor}, envases: ${this.envases}, numero: ${this.numero}, sabor: ${this.sabor}`
-    }
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwLnVzZShib2R5UGFyc2VyLmpzb24oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXBwID0gZXhwcmVzcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuL2RiJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtJdGVtfSBmcm9tICIuL2l0ZW0iOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
