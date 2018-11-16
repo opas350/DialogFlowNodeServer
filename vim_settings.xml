@@ -70,6 +70,12 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/index.js" timestamp="1542355345699">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+      </file>
       <file name="$USER_HOME$/git/SodaBot-Serv/bin/www" timestamp="1510562971834">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="22" column="34" />
@@ -87,11 +93,29 @@
         <mark key="]" line="30" column="109" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/package.json" timestamp="1542354980768">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/package.json" timestamp="1517910156052">
         <mark key="[" line="9" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1517910533033">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/index.js" timestamp="1542354371649">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/maths.js" timestamp="1542354841001">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -148,7 +172,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -160,34 +184,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHIgPSByLnJlcGxhY2UoLyAvZywgJycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">ICAgIHIgPSByLnJlcGxhY2UoLyAvZywgJycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIgPSByLnNwbGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyh5KQo=</text>
+        <text encoding="base64">ICAgIHIgPSByLnNwbGl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBsZXQgeSA9IFMuc3BsaXQoKTsK</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyh5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB5ID0gUzsK</text>
+        <text encoding="base64">ICAgICBsZXQgeSA9IFMuc3BsaXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFMuZmlsdGVyKCkK</text>
+        <text encoding="base64">ICAgIGxldCB5ID0gUzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coInMiKQo=</text>
+        <text encoding="base64">ICAgIFMuZmlsdGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -216,6 +240,7 @@
         <entry>/log</entry>
         <entry>/ty</entry>
         <entry>/ty orden</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
