@@ -70,6 +70,12 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/requestExample.js" timestamp="1542438366206">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/index.js" timestamp="1542355345699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="44" />
@@ -171,11 +177,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>ty orden</text>
@@ -241,6 +247,7 @@
         <entry>/ty</entry>
         <entry>/ty orden</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
