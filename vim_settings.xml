@@ -23,6 +23,12 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/load-json.js" timestamp="1542439320226">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/orderDB/orderDB.js" timestamp="1514164304743">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="10" column="40" />
@@ -63,6 +69,18 @@
         <mark key="]" line="34" column="57" />
         <mark key="." line="34" column="57" />
         <mark key="^" line="34" column="57" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/math.js" timestamp="1542440112825">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/README.md" timestamp="1517129637405">
         <mark key="[" line="3" column="48" />
@@ -178,10 +196,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ty orden</text>
@@ -190,34 +208,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHIgPSByLnJlcGxhY2UoLyAvZywgJycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHIgPSByLnNwbGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyh5KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBsZXQgeSA9IFMuc3BsaXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB5ID0gUzsK</text>
+        <text encoding="base64">ICAgIHIgPSByLnJlcGxhY2UoLyAvZywgJycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFMuZmlsdGVyKCkK</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
