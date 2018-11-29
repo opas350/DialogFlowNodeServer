@@ -60,20 +60,6 @@
         <mark key="." line="50" column="38" />
         <mark key="^" line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/functions/index.js" timestamp="1517213381816">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="110" column="44" />
-        <mark key="]" line="112" column="53" />
-        <mark key="." line="112" column="53" />
-        <mark key="^" line="81" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/index.js" timestamp="1516606566760">
-        <mark key="'" line="14" column="29" />
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="34" column="57" />
-        <mark key="^" line="34" column="57" />
-      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="16" />
@@ -163,6 +149,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1543473471040">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/functions/index.ts" timestamp="1517902676051">
         <mark key="[" line="312" column="6" />
         <mark key="]" line="312" column="7" />
@@ -170,9 +161,9 @@
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1543454171696">
         <mark key="[" line="2" column="21" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
@@ -186,15 +177,14 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/functions/index.js" timestamp="1517904937933">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="215" column="40" />
-        <mark key="]" line="215" column="41" />
-        <mark key="^" line="308" column="22" />
-        <mark key="." line="215" column="41" />
-      </file>
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1543475060688">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+        <mark key="^" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/git/untitled2/app.js" timestamp="1532327049618">
         <mark key="[" line="19" column="42" />
@@ -202,11 +192,11 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543456975645">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/git/SodaBot-Serv/appConstants.js" timestamp="1510544808022">
         <mark key="[" line="0" column="0" />
@@ -217,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -229,52 +219,43 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdub3QgZm91bmQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMpLnRvLmhhdmUucGFyYW0oJ1Nob3BwaW5nJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcGx5Lm9wdGlvbnMuc3RhdGUoNDA0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAiZXhlY01hcCI6IHsK</text>
       </register>
-      <register name="4" type="4">
-        <text>const todoList = [
-    {
-        title: 'Shopping',
-        dateCreated: '28 November, 2018',
-        list: [
-            {text: 'Node.js books', done: false},
-            {text: 'MacBook', done: false},
-            {text: 'Shoes', done: true}
-        ]
-    },
-    {
-        title: 'Places to visit',
-        dateCreated: '25 December, 2018',
-        list: [
-            {text: 'city1, state1', done: false},
-            {text: 'city2, state2', done: false}
-        ]
-    }
-];</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VydmVyLnJvdXRlKHJvdXRlcy50b2RvKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+  &quot;compilerOptions&quot;: {
+    &quot;module&quot;: &quot;commonjs&quot;,
+    &quot;target&quot;: &quot;es5&quot;,
+    &quot;sourceMap&quot;: true
+  },
+  &quot;exclude&quot;: [
+    &quot;node_modules&quot;
+  ]
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VydmVyLnJvdXRlKHJvdXRlcy50b2RvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdub3QgZm91bmQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm91dGVzLnRvZG8gPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcGx5Lm9wdGlvbnMuc3RhdGUoNDA0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
