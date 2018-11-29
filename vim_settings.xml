@@ -53,8 +53,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/src/index.ts" timestamp="1517902070163">
-        <mark key="'" line="312" column="0" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1543466913516">
+        <mark key="'" line="50" column="18" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="38" />
+        <mark key="." line="50" column="38" />
+        <mark key="^" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/index.js" timestamp="1517213381816">
         <mark key="'" line="0" column="0" />
@@ -135,11 +139,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/server.js" timestamp="1543458843542">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="21" column="1" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/server.js" timestamp="1543465448681">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/maths.js" timestamp="1542354841001">
         <mark key="[" line="6" column="18" />
@@ -166,9 +170,9 @@
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1543454171696">
         <mark key="[" line="2" column="21" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
@@ -181,9 +185,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/functions/node_modules/actions-on-google/dialogflow-app.js" timestamp="1517206485053">
-        <mark key="'" line="52" column="26" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/functions/index.js" timestamp="1517904937933">
         <mark key="'" line="30" column="12" />
@@ -211,13 +212,15 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="50" column="18" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2Uoe21lc3NhZ2U6ICdIZWxsbyBXb3JsZCd9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -226,34 +229,52 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2Uoe21lc3NhZ2U6ICdIZWxsbyBXb3JsZCd9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdub3QgZm91bmQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcGx5Lm9wdGlvbnMuc3RhdGUoNDA0KTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMpLnRvLmhhdmUuc3RhCg==</text>
+      <register name="4" type="4">
+        <text>const todoList = [
+    {
+        title: 'Shopping',
+        dateCreated: '28 November, 2018',
+        list: [
+            {text: 'Node.js books', done: false},
+            {text: 'MacBook', done: false},
+            {text: 'Shoes', done: true}
+        ]
+    },
+    {
+        title: 'Places to visit',
+        dateCreated: '25 December, 2018',
+        list: [
+            {text: 'city1, state1', done: false},
+            {text: 'city2, state2', done: false}
+        ]
+    }
+];</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLnJvdXRlKHJvdXRlcy50b2RvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">c2VydmVyLnJvdXRlKHJvdXRlcy50b2RvKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">cm91dGVzLnRvZG8gPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
