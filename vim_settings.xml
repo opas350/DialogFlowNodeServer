@@ -12,11 +12,6 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/firebase.json" timestamp="1517910043806">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/functions/package.json" timestamp="1517910165272">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -35,17 +30,14 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/git/example-api-testing/example-api-testing/user.test.js" timestamp="1544077750527">
+        <mark key="[" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="20" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/src/server.ts" timestamp="1517910448072">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/db.ts" timestamp="1514680119282">
         <mark key="[" line="5" column="0" />
@@ -60,6 +52,9 @@
         <mark key="." line="50" column="38" />
         <mark key="^" line="50" column="38" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
+        <mark key="[" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="16" />
@@ -71,6 +66,9 @@
         <mark key="]" line="20" column="27" />
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/example-api-testing/example-api-testing/req.http" timestamp="1544077880139">
+        <mark key="[" line="5" column="109" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/README.md" timestamp="1517129637405">
         <mark key="[" line="3" column="48" />
@@ -95,17 +93,6 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/src/orderDB/orderDB.ts" timestamp="1514164136383">
-        <mark key="'" line="8" column="20" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/src/item.ts" timestamp="1517898188661">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="109" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/package.json" timestamp="1542354980768">
         <mark key="[" line="3" column="19" />
@@ -143,21 +130,10 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/src/index.js" timestamp="1517124123834">
-        <mark key="'" line="64" column="53" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1543473471040">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/functions/index.ts" timestamp="1517902676051">
-        <mark key="[" line="312" column="6" />
-        <mark key="]" line="312" column="7" />
-        <mark key="." line="312" column="7" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1543454171696">
         <mark key="[" line="2" column="21" />
