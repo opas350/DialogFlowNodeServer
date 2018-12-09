@@ -127,11 +127,10 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544166408510">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544341482103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1543454171696">
         <mark key="[" line="2" column="21" />
@@ -154,11 +153,11 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544338508260">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-        <mark key="^" line="25" column="23" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544341546525">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/git/untitled2/app.js" timestamp="1532327049618">
         <mark key="[" line="19" column="42" />
@@ -184,56 +183,56 @@
       <jump line="33" column="8" filename="$USER_HOME$/git/example-api-testing/example-api-testing/user.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="4">
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
+        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdG9kb0xpc3QyID0gewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgdG9kb0xpc3QyID0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search encoding="base64">XDwvXD4=</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -247,6 +246,7 @@
         <entry>ty orden</entry>
         <entry>one</entry>
         <entry>status</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/bgBlue</entry>
