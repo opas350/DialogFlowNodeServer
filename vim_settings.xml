@@ -45,12 +45,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544338983063">
-        <mark key="'" line="51" column="18" />
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544409476598">
+        <mark key="'" line="55" column="18" />
+        <mark key="[" line="50" column="59" />
+        <mark key="]" line="50" column="64" />
+        <mark key="." line="50" column="64" />
+        <mark key="^" line="50" column="64" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
         <mark key="[" line="0" column="0" />
@@ -134,9 +134,9 @@
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1543454171696">
         <mark key="[" line="2" column="21" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
@@ -182,11 +182,11 @@
       <jump line="33" column="8" filename="$USER_HOME$/git/example-api-testing/example-api-testing/user.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
