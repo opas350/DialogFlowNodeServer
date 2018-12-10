@@ -130,8 +130,11 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544424980302">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544430772076">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544341482103">
         <mark key="[" line="2" column="0" />
