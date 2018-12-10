@@ -153,11 +153,11 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544341546525">
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="30" column="54" />
-        <mark key="." line="30" column="54" />
-        <mark key="^" line="30" column="54" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544406647879">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/git/untitled2/app.js" timestamp="1532327049618">
         <mark key="[" line="19" column="42" />
@@ -184,10 +184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -259,6 +259,7 @@
         <entry>W</entry>
         <entry>/one</entry>
         <entry>/status</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
