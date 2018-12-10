@@ -130,11 +130,11 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544468479677">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544469990220">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544341482103">
         <mark key="[" line="2" column="0" />
@@ -192,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -204,34 +204,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
+        <text encoding="base64">ICBhZG1pbmVyOgogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
+        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
