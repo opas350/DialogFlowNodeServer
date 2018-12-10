@@ -153,11 +153,10 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544406647879">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544406950223">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/untitled2/app.js" timestamp="1532327049618">
         <mark key="[" line="19" column="42" />
@@ -183,8 +182,8 @@
       <jump line="33" column="8" filename="$USER_HOME$/git/example-api-testing/example-api-testing/user.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -196,34 +195,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
+        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdG9kb0xpc3QyID0gewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
