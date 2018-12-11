@@ -6,6 +6,11 @@
       <file name="vim_settings.xml" timestamp="1516607016719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/db.js" timestamp="1544504153799">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git/SodaBot-Serv/app.js" timestamp="1510527345114">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
@@ -35,6 +40,12 @@
         <mark key="]" line="3" column="20" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/test-db.js" timestamp="1544501849624">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="55" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
         <mark key="[" line="16" column="3" />
@@ -130,22 +141,22 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544475668567">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
+        <mark key="'" line="21" column="3" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544341482103">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1543454171696">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1544502067695">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
@@ -189,13 +200,15 @@
     <jumps>
       <jump line="50" column="18" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
       <jump line="33" column="8" filename="$USER_HOME$/git/example-api-testing/example-api-testing/user.test.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" />
+      <jump line="20" column="3" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -204,34 +217,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZG1pbmVyOgogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICByZWplY3RVbmF1dGhvcml6ZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNzbDogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">ICBhZG1pbmVyOgogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UudHlwZSgndGV4dC9qc29uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkudGl0bGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvZG9MaXN0Owo=</text>
+        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNlcnZlci50ZXN0LmpzIiwgInRlc3QvKiJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Iub3V0cHV0LnBheWxvYWQuY3UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBoLnJlc3BvbnNlKCdzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
