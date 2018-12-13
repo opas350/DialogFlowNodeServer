@@ -57,11 +57,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544727424452">
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="71" column="23" />
-        <mark key="^" line="71" column="23" />
-        <mark key="." line="71" column="23" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544729048691">
+        <mark key="'" line="60" column="23" />
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="63" column="39" />
+        <mark key="^" line="63" column="49" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -202,13 +203,14 @@
       <jump line="33" column="8" filename="$USER_HOME$/git/example-api-testing/example-api-testing/user.test.js" />
       <jump line="4" column="17" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" />
       <jump line="20" column="3" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" />
+      <jump line="65" column="23" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -217,34 +219,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5KHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHJlcGx5KHttZXNzYWdlOiAnY3JlYXRlZCcsIHRvZG9faWQ6IHRvZG9JZH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJPSyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2cgKHRvZG9JZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC5pbnNlcnQodG9kbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmxvZyh5WydlbWFpbCddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC5yZXR1cm5pbmcoJ2lkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGZvciAoeSBvZiB4KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgdG9kb0lkID0gIEtuZXguZnJvbSgndXNlcicpLnNlbGVjdCgiKiIpLnRoZW4oeCA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyh5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5KHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgS25leCA9IHJlcXVpcmUoJ2tuZXgnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJPSyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
