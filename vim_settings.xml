@@ -57,11 +57,11 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544683125045">
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="31" />
-        <mark key="." line="62" column="31" />
-        <mark key="^" line="62" column="31" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544684773421">
+        <mark key="[" line="61" column="43" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
+        <mark key="^" line="62" column="32" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -206,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
