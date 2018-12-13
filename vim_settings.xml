@@ -57,12 +57,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544733905769">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-        <mark key="^" line="61" column="35" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544734752031">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="28" />
+        <mark key="^" line="66" column="22" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -209,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -221,34 +221,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdG9kbyA9IHJlcXVlc3QucGF5bG9hZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGFzaFBhc3N3b3JkKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGhhc2hQYXNzd29yZCA9IGNyeXB0by5jcmVhdGVIYXNoKCdtZDUnKS51cGRhdGUocGFzc3dvcmQpLmRpZ2VzdCgnaGV4Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHJlcGx5KHttZXNzYWdlOiAnY3JlYXRlZCcsIHRvZG9faWQ6IHRvZG9JZH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkID0gdG9kby5wYXNzd29yZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdG9kbyA9IHJlcXVlc3QucGF5bG9hZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmxvZyh5WydlbWFpbCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGZvciAoeSBvZiB4KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHJlcGx5KHttZXNzYWdlOiAnY3JlYXRlZCcsIHRvZG9faWQ6IHRvZG9JZH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgdG9kb0lkID0gIEtuZXguZnJvbSgndXNlcicpLnNlbGVjdCgiKiIpLnRoZW4oeCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
