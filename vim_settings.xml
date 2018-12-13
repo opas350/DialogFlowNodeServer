@@ -60,11 +60,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544743078368">
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544743851806">
         <mark key="'" line="74" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="53" />
+        <mark key="." line="66" column="53" />
+        <mark key="^" line="66" column="53" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -214,11 +215,11 @@
       <jump line="76" column="0" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIi0tLS1UT0RPLS0tIiArIHRvZG8pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
