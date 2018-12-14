@@ -60,12 +60,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544758631624">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="81" column="56" />
-        <mark key="]" line="83" column="22" />
-        <mark key="." line="83" column="22" />
-        <mark key="^" line="83" column="22" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544759641655">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="87" column="57" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -188,12 +188,12 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverRequest.http" timestamp="1544758612102">
-        <mark key="[" line="24" column="24" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverRequest.http" timestamp="1544759387051">
+        <mark key="[" line="24" column="32" />
         <mark key="k" line="18" column="12" />
-        <mark key="]" line="24" column="24" />
+        <mark key="]" line="24" column="33" />
         <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
+        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -215,11 +215,11 @@
       <jump line="76" column="0" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -228,34 +228,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIi0tLS1UT0RPLS0tIiArIHRvZG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRvZG9JZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIi0tLS1UT0RPLS0tIiArIHRvZG8pOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRvZG9JZDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdObycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RvZG9JRDogJyArIHRvZG9JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdObycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RvZG9JRDogJyArIHRvZG9JZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGFzaFBhc3N3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGhhc2hQYXNzd29yZCA9IGNyeXB0by5jcmVhdGVIYXNoKCdtZDUnKS51cGRhdGUocGFzc3dvcmQpLmRpZ2VzdCgnaGV4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGFzaFBhc3N3b3JkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
