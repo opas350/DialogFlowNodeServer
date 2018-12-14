@@ -60,12 +60,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544759641655">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="87" column="57" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544771391879">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="15" />
+        <mark key="." line="78" column="15" />
+        <mark key="^" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -188,12 +188,12 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverRequest.http" timestamp="1544759387051">
-        <mark key="[" line="24" column="32" />
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverRequest.http" timestamp="1544770891223">
+        <mark key="[" line="28" column="19" />
         <mark key="k" line="18" column="12" />
-        <mark key="]" line="24" column="33" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="33" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -215,11 +215,11 @@
       <jump line="76" column="0" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
