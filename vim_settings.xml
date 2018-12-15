@@ -70,11 +70,11 @@
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544856705992">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544856818743">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/git/todoList_app/index.html" timestamp="1544856251165">
         <mark key="'" line="0" column="0" />
@@ -239,11 +239,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/todoList_app/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -252,7 +252,7 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
+        <text encoding="base64">ICAgIGxldCB0b0RvID0gbmV3IFRvZG9DbGFzcygpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
@@ -261,22 +261,22 @@
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCB0b0RvID0gbmV3IFRvZG9DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0b0RvID0gbmV3IFRvZG9DbGFzcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
