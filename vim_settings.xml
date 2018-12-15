@@ -70,18 +70,19 @@
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544856818743">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544861010195">
+        <mark key="'" line="26" column="25" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/todoList_app/index.html" timestamp="1544856251165">
+      <file name="$USER_HOME$/git/todoList_app/index.html" timestamp="1544860936333">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="17" />
-        <mark key="]" line="88" column="26" />
-        <mark key="." line="88" column="26" />
-        <mark key="^" line="88" column="26" />
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
+        <mark key="^" line="76" column="26" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
         <mark key="[" line="0" column="0" />
@@ -237,58 +238,59 @@
       <jump line="12" column="15" filename="$USER_HOME$/git/todoList_app/index.html" />
       <jump line="20" column="0" filename="$USER_HOME$/git/todoList_app/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/git/todoList_app/index.html" />
+      <jump line="25" column="25" filename="$USER_HOME$/git/todoList_app/scripts/scripts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwvXD4=</text>
+        <text>list-group-item</text>
       </register>
       <register name="0" type="4">
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCB0b0RvID0gbmV3IFRvZG9DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB0b0RvID0gbmV3IFRvZG9DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgIGxvYWRUYXNrKCl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0b0RvID0gbmV3IFRvZG9DbGFzcygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnSGVsbG8gV29ybGQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwvXD4=</last-search>
+      <last-search>list-group-item</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
+      <last-pattern>list-group-item</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -303,6 +305,7 @@
         <entry>one</entry>
         <entry>status</entry>
         <entry encoding="base64">XDwvXD4=</entry>
+        <entry>list-group-item</entry>
       </history-search>
       <history-cmd>
         <entry>/bgBlue</entry>
@@ -317,6 +320,7 @@
         <entry>/status</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>/list-group-item</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
