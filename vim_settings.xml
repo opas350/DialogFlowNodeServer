@@ -70,6 +70,13 @@
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/todoList_app/index.html" timestamp="1544851406794">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="16" />
@@ -177,6 +184,12 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/todoList_app/package.json" timestamp="1544849787011">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/server.test.js" timestamp="1544406950223">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -213,13 +226,18 @@
       <jump line="65" column="23" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
       <jump line="56" column="15" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
       <jump line="76" column="0" filename="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" />
+      <jump line="15" column="53" filename="$USER_HOME$/git/todoList_app/index.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/todoList_app/index.html" />
+      <jump line="12" column="15" filename="$USER_HOME$/git/todoList_app/index.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/todoList_app/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/todoList_app/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -227,37 +245,37 @@
       <register name="0" type="4">
         <text>S</text>
       </register>
-      <register name="1" type="4">
-        <text>uest.params.id;
-            todoItem.t</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>uest.params.id;
-            todoItem.t</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08ZGl2LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIi0tLS1UT0RPLS0tIiArIHRvZG8pOwo=</text>
+        <text encoding="base64">PC9uYXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRvZG9JZDsK</text>
+        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1pbnZlcnNlIG5hdmJhci1maXhlZC10b3AiPgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>uest.params.id;
+            todoItem.t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>uest.params.id;
+            todoItem.t</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdObycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RvZG9JRDogJyArIHRvZG9JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIi0tLS1UT0RPLS0tIiArIHRvZG8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
