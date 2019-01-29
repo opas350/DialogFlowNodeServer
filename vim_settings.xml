@@ -24,11 +24,11 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/NWExampleDev/weatherapp/package.json" timestamp="1548743200443">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/git/NWExampleDev/weatherapp/package.json" timestamp="1548743963808">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/load-json.js" timestamp="1542439320226">
         <mark key="[" line="0" column="0" />
@@ -275,7 +275,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJodHRwLXNlcnZlciIsCg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="-" type="4">
         <text>todoListApp</text>
@@ -287,34 +287,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJodHRwLXNlcnZlciIsCg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6ICJjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlXCIgXCJiYWJlbCBzcmMgLWQgZGlzdCAtLXByZXNldD1lczIwMTUgLXdzXCIiLAo=</text>
+        <text encoding="base64">ICAgICJub3QgaWUgPD0gOCIK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJkZXYtZGVtb24iOiAibm9kZW1vbiAuL3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
+        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJybSAtcmYgZGlzdCAmJiBiYWJlbCBzcmMgLWQgZGlzdCAtLXByZXNldHM9ZXMyMDE1IiwK</text>
+        <text encoding="base64">ICAgICI+IDElIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXYiOiAicGFyY2VsIHdhdGNoIGluZGV4Lmh0bWwiLAo=</text>
+        <text encoding="base64">ICAiYnJvd3NlcnNsaXN0IjogWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJodHRwLXNlcnZlciI6ICJeMC4xMS4xIgo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJodHRwLXNlcnZlciIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjQuMS4wIiwK</text>
+        <text encoding="base64">ICAgICJ3YXRjaCI6ICJjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlXCIgXCJiYWJlbCBzcmMgLWQgZGlzdCAtLXByZXNldD1lczIwMTUgLXdzXCIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
+        <text encoding="base64">ICAgICJkZXYtZGVtb24iOiAibm9kZW1vbiAuL3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jbGkiOiAiXjYuMjYuMCIsCg==</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJybSAtcmYgZGlzdCAmJiBiYWJlbCBzcmMgLWQgZGlzdCAtLXByZXNldHM9ZXMyMDE1IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
