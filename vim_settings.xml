@@ -24,6 +24,12 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/git/NWExampleDev/weatherapp/package.json" timestamp="1548743200443">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/load-json.js" timestamp="1542439320226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="23" />
@@ -50,9 +56,6 @@
         <mark key="]" line="4" column="55" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="55" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
-        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/db.ts" timestamp="1514680119282">
         <mark key="[" line="5" column="0" />
@@ -109,6 +112,9 @@
         <mark key="]" line="8" column="61" />
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
+        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/requestExample.js" timestamp="1542438366206">
         <mark key="[" line="7" column="32" />
