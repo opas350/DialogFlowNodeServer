@@ -3,21 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1516607016719">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/db.js" timestamp="1544682165027">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/SodaBot-Serv/app.js" timestamp="1510527345114">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/functions/package.json" timestamp="1517910165272">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -30,12 +15,6 @@
         <mark key="^" line="45" column="23" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/load-json.js" timestamp="1542439320226">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-      </file>
       <file name="/JSON Fragment (serverRequest.http:561).json" timestamp="1544742988598">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,12 +23,6 @@
         <mark key="]" line="10" column="40" />
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/test-db.js" timestamp="1544501849624">
         <mark key="[" line="4" column="55" />
@@ -70,28 +43,12 @@
         <mark key="." line="73" column="14" />
         <mark key="^" line="73" column="14" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544865238528">
-        <mark key="'" line="68" column="140" />
-        <mark key="[" line="68" column="140" />
-        <mark key="]" line="68" column="140" />
-        <mark key="." line="68" column="140" />
-        <mark key="^" line="68" column="140" />
-      </file>
       <file name="$USER_HOME$/git/todoList_app/index.html" timestamp="1544916083216">
         <mark key="'" line="40" column="29" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="44" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/math.js" timestamp="1542440112825">
         <mark key="[" line="20" column="27" />
@@ -106,12 +63,6 @@
       </file>
       <file name="$USER_HOME$/git/example-api-testing/example-api-testing/req.http" timestamp="1544077880139">
         <mark key="[" line="5" column="109" />
-      </file>
-      <file name="$USER_HOME$/git/safeCar-Serv/README.md" timestamp="1517129637405">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="8" column="61" />
-        <mark key="^" line="8" column="61" />
-        <mark key="." line="8" column="61" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
         <mark key="[" line="16" column="3" />
@@ -128,12 +79,6 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/git/SodaBot-Serv/bin/www" timestamp="1510562971834">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/package.json" timestamp="1542354980768">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="23" />
@@ -142,21 +87,6 @@
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/package.json" timestamp="1517910156052">
         <mark key="[" line="9" column="57" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544917530237">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/index.js" timestamp="1542354371649">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/server.js" timestamp="1543465448681">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/git/todoList_app/src/scripts.js" timestamp="1544865681021">
         <mark key="[" line="68" column="78" />
@@ -170,11 +100,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/maths.js" timestamp="1542354841001">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549444363373">
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -182,22 +112,16 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
-        <mark key="'" line="21" column="3" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544341482103">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/git/todoList_app/toDo_App/package.json" timestamp="1544916567489">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549441572333">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1544680614382">
         <mark key="[" line="16" column="24" />
@@ -216,9 +140,6 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="vcs.xml" timestamp="1516606992430">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/todoList_app/package.json" timestamp="1544917519259">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -236,6 +157,109 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/git/SodaBot-Serv/appConstants.js" timestamp="1510544808022">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1516607016719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/db.js" timestamp="1544682165027">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/SodaBot-Serv/app.js" timestamp="1510527345114">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/load-json.js" timestamp="1542439320226">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549444508158">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544865238528">
+        <mark key="'" line="68" column="140" />
+        <mark key="[" line="68" column="140" />
+        <mark key="]" line="68" column="140" />
+        <mark key="." line="68" column="140" />
+        <mark key="^" line="68" column="140" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/config/sample.json" timestamp="1542439220174">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="/a.sql" timestamp="1549442161641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/safeCar-Serv/README.md" timestamp="1517129637405">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/SodaBot-Serv/bin/www" timestamp="1510562971834">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1549442111827">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/index.js" timestamp="1542354371649">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/server.js" timestamp="1543465448681">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/maths.js" timestamp="1542354841001">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
+        <mark key="'" line="21" column="3" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/nodemon.json" timestamp="1544341482103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="vcs.xml" timestamp="1516606992430">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverRequest.http" timestamp="1544770891223">
         <mark key="[" line="28" column="19" />
         <mark key="k" line="18" column="12" />
@@ -248,9 +272,6 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
         <mark key="^" line="37" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/SodaBot-Serv/appConstants.js" timestamp="1510544808022">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -272,13 +293,14 @@
       <jump line="42" column="5" filename="$USER_HOME$/git/todoList_app/scripts/scripts.js" />
       <jump line="68" column="140" filename="$USER_HOME$/git/todoList_app/scripts/scripts.js" />
       <jump line="40" column="29" filename="$USER_HOME$/git/todoList_app/index.html" />
+      <jump line="47" column="6" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>todoListApp</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -287,34 +309,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJub3QgaWUgPD0gOCIK</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jb25uZWN0KCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsYXN0IDIgdmVyc2lvbnMiLAo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICI+IDElIiwK</text>
+        <text encoding="base64">ICAgIG5leHQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYnJvd3NlcnNsaXN0IjogWwo=</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJodHRwLXNlcnZlciIsCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbC5jb25uZWN0aW9uID0gbXlzcWwuY3JlYXRlQ29ubmVjdGlvbih7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6ICJjb25jdXJyZW50bHkgXCJucG0gcnVuIHNlcnZlXCIgXCJiYWJlbCBzcmMgLWQgZGlzdCAtLXByZXNldD1lczIwMTUgLXdzXCIiLAo=</text>
+        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkZXYtZGVtb24iOiAibm9kZW1vbiAuL3NjcmlwdHMvc2NyaXB0cy5qcyIsCg==</text>
+        <text encoding="base64">ICAgIHJlcy5sb2NhbHMuY29ubmVjdGlvbi5jb25uZWN0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJybSAtcmYgZGlzdCAmJiBiYWJlbCBzcmMgLWQgZGlzdCAtLXByZXNldHM9ZXMyMDE1IiwK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,13 +369,13 @@
         <entry>/log</entry>
         <entry>/ty</entry>
         <entry>/ty orden</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>/one</entry>
         <entry>/status</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>/list-group-item</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -383,6 +405,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
