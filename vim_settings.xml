@@ -117,11 +117,11 @@
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549441572333">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549445462855">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1544680614382">
         <mark key="[" line="16" column="24" />
@@ -181,11 +181,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549444508158">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549445727943">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="19" column="73" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -296,11 +296,11 @@
       <jump line="47" column="6" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -309,34 +309,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5lbmQoKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5leHQoKTsK</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jb25uZWN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbC5jb25uZWN0aW9uID0gbXlzcWwuY3JlYXRlQ29ubmVjdGlvbih7Cg==</text>
+        <text encoding="base64">ICAgIG5leHQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcy5sb2NhbHMuY29ubmVjdGlvbi5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbC5jb25uZWN0aW9uID0gbXlzcWwuY3JlYXRlQ29ubmVjdGlvbih7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdCgpOwo=</text>
+        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
