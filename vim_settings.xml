@@ -100,11 +100,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549527744137">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549529020127">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -123,11 +123,11 @@
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549445462855">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549528584847">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1544680614382">
         <mark key="[" line="16" column="24" />
@@ -193,12 +193,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549527942910">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549532138569">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -316,13 +316,16 @@
       <jump line="47" column="6" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" />
       <jump line="6" column="21" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="7" column="25" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -331,34 +334,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24uZW5kKCk7Cg==</text>
+        <text encoding="base64">ICAgIGxpbWl0ID0gMSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbXlzcWwgPSByZXF1aXJlKCdteXNxbCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBsaW1pdCA9IChyZXEucXVlcnkubGltaXQgPT09IHVuZGVmaW5lZCB8fCByZXEucXVlcnkubGltaXQgPT09ICcwJyB8fCByZXEucXVlcnkubGltaXQgPT0gbnVsbCkgPyAxIDogcGFyc2VJbnQocmVxLnF1ZXJ5LmxpbWl0KSA7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlOiAnZW1wbG95ZWVzJwo=</text>
+        <text encoding="base64">ICAgICAgICBkYi5xdWVyeSgnU0VMRUNUICogRlJPTSBlbXBsb3llZXMgV0hFUkUgZmlyc3RfbmFtZT0/IExJTUlUID8nLFtuYW1lLCBsaW1pdF0sIGZ1bmN0aW9uIChlcnJvciwgcmVzdWx0cywgZmllbGRzKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiAnR2FpZGVuMzUwIScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXI6ICdvcGFzMzUwJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24uZW5kKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICcxOTIuMTY4LjAuMTQnLAo=</text>
+        <text encoding="base64">Y29uc3QgbXlzcWwgPSByZXF1aXJlKCdteXNxbCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -393,10 +396,10 @@
         <entry>/ty orden</entry>
         <entry>/one</entry>
         <entry>/status</entry>
-        <entry>2</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>/list-group-item</entry>
         <entry>wq</entry>
+        <entry>2</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
