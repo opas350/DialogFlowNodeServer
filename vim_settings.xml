@@ -100,6 +100,7 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1549617504242" />
       <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549529020127">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -193,12 +194,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549532138569">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="42" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549617185667">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -206,12 +207,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549519789472">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549618241685">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -229,7 +230,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/a.sql" timestamp="1549442161641">
+      <file name="/a.sql" timestamp="1549617598237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/README.md" timestamp="1517129637405">
@@ -243,6 +244,9 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
+      </file>
+      <file name="/dummy.sql" timestamp="1549617607514">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549442111827">
         <mark key="[" line="0" column="0" />
@@ -314,18 +318,18 @@
       <jump line="68" column="140" filename="$USER_HOME$/git/todoList_app/scripts/scripts.js" />
       <jump line="40" column="29" filename="$USER_HOME$/git/todoList_app/index.html" />
       <jump line="47" column="6" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" />
       <jump line="6" column="21" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="7" column="25" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="9" column="16" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="13" column="4" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0hPVyBudW1iZXJPZklkczsK</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">ICogRlJPTSBlbXBsb3llZXMgQ09VTlQoZW1wX25vKTs=</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -334,34 +338,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbWl0ID0gMSA7Cg==</text>
+        <text encoding="base64">U0hPVyBudW1iZXJPZklkczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBsaW1pdCA9IChyZXEucXVlcnkubGltaXQgPT09IHVuZGVmaW5lZCB8fCByZXEucXVlcnkubGltaXQgPT09ICcwJyB8fCByZXEucXVlcnkubGltaXQgPT0gbnVsbCkgPyAxIDogcGFyc2VJbnQocmVxLnF1ZXJ5LmxpbWl0KSA7Cg==</text>
+        <text encoding="base64">VVNFIGVtcGxveWVlczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBkZXBhcnRtZW50czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgIGxpbWl0ID0gMSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5xdWVyeSgnU0VMRUNUICogRlJPTSBlbXBsb3llZXMgV0hFUkUgZmlyc3RfbmFtZT0/IExJTUlUID8nLFtuYW1lLCBsaW1pdF0sIGZ1bmN0aW9uIChlcnJvciwgcmVzdWx0cywgZmllbGRzKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBsaW1pdCA9IChyZXEucXVlcnkubGltaXQgPT09IHVuZGVmaW5lZCB8fCByZXEucXVlcnkubGltaXQgPT09ICcwJyB8fCByZXEucXVlcnkubGltaXQgPT0gbnVsbCkgPyAxIDogcGFyc2VJbnQocmVxLnF1ZXJ5LmxpbWl0KSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24uZW5kKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbXlzcWwgPSByZXF1aXJlKCdteXNxbCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
