@@ -207,12 +207,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549618241685">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549618774341">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -325,11 +325,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0hPVyBudW1iZXJPZklkczsK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogRlJPTSBlbXBsb3llZXMgQ09VTlQoZW1wX25vKTs=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
