@@ -113,11 +113,11 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/db/db.js" timestamp="1549520560898">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="5" column="12" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/db/db.js" timestamp="1549703512761">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/.babelrc" timestamp="1549696117555">
         <mark key="[" line="0" column="0" />
@@ -206,11 +206,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549697939645">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="53" />
-        <mark key="^" line="17" column="53" />
-        <mark key="." line="17" column="53" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549703552465">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="62" />
+        <mark key="^" line="16" column="62" />
+        <mark key="." line="16" column="62" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -218,12 +219,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549618774341">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549703338258">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="45" />
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+        <mark key="^" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
@@ -336,13 +337,15 @@
       <jump line="8" column="0" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
       <jump line="54" column="20" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
+      <jump line="22" column="8" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -351,16 +354,16 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMH1dKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXEucXVlcnkubGltaXQgPT09IHR5cGVvZiAnYScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXEucXVlcnkubGltaXQgPT09IHR5cGVvZiAnYScpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -419,6 +422,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
