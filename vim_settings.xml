@@ -100,13 +100,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1549617504242" />
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549694132924">
-        <mark key="'" line="54" column="20" />
-        <mark key="[" line="54" column="22" />
-        <mark key="]" line="54" column="28" />
-        <mark key="." line="54" column="28" />
-        <mark key="^" line="54" column="28" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549697292191">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -120,16 +119,22 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/.babelrc" timestamp="1549696117555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/git/todoList_app/toDo_App/package.json" timestamp="1544916567489">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549695154397">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549697127316">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1544680614382">
         <mark key="[" line="16" column="24" />
@@ -201,12 +206,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549693033705">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="13" column="2" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549697939645">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="53" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -334,11 +338,11 @@
       <jump line="54" column="20" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -347,34 +351,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHNlcnZlciA9IGh0dHAuY3JlYXRlU2VydmVyKGFwcCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VydmVyLmxpc3Rlbig0MDAxKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXEucXVlcnkubGltaXQgPT09IHR5cGVvZiAnYScpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0V4cHJlc3Mgc3RhcnRlZCBvbiBwb3J0ICcgKyBzZXJ2ZXIucG9ydC4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0hPVyBudW1iZXJPZklkczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVNFIGVtcGxveWVlczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBkZXBhcnRtZW50czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbWl0ID0gMSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -411,10 +415,10 @@
         <entry>/status</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>/list-group-item</entry>
-        <entry>wq</entry>
         <entry>2</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
