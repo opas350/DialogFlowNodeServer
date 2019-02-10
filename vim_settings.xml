@@ -130,11 +130,11 @@
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549697127316">
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/package.json" timestamp="1549830971273">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/package.json" timestamp="1544680614382">
         <mark key="[" line="16" column="24" />
@@ -206,12 +206,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549703552465">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="62" />
-        <mark key="^" line="16" column="62" />
-        <mark key="." line="16" column="62" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549831371427">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -287,6 +287,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549831121217">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
         <mark key="'" line="21" column="3" />
         <mark key="[" line="4" column="20" />
@@ -342,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -354,19 +360,19 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMH1dKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMH1dKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXEucXVlcnkubGltaXQgPT09IHR5cGVvZiAnYScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXEucXVlcnkubGltaXQgPT09IHR5cGVvZiAnYScpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -421,8 +427,8 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
