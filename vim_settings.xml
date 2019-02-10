@@ -287,11 +287,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549831121217">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549831433074">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
         <mark key="'" line="21" column="3" />
@@ -348,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
