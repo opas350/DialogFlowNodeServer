@@ -206,12 +206,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549867795640">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549873663216">
+        <mark key="'" line="49" column="3" />
+        <mark key="[" line="53" column="2" />
+        <mark key="]" line="53" column="1" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="53" column="1" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -358,13 +358,14 @@
       <jump line="19" column="0" filename="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" />
       <jump line="23" column="4" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="6" column="36" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" />
+      <jump line="44" column="3" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -373,34 +374,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsYW5ndWFnZT1NeVNRTAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBsYW5ndWFnZT1NeVNRTAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZWplY3QocmVzLnNlbmQoW3sic3RhdHVzIjogMjAwLCAiYWN0aW9uIjogbnVsbH1dKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMCwgImFjdGlvbiI6IG51bGx9XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXJyb3I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5xdWVyeS5uYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMCwgImFjdGlvbiI6IG51bGx9XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZWplY3QocmVzLnNlbmQoW3sic3RhdHVzIjogMjAwLCAiYWN0aW9uIjogbnVsbH1dKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
