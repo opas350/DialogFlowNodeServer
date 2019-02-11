@@ -100,12 +100,12 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549697292191">
-        <mark key="'" line="47" column="20" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="47" column="28" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549861830375">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="43" />
+        <mark key="^" line="29" column="43" />
+        <mark key="." line="29" column="43" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -206,12 +206,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549831371427">
-        <mark key="'" line="17" column="8" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549861663996">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="8" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -235,6 +235,13 @@
         <mark key="]" line="68" column="140" />
         <mark key="." line="68" column="140" />
         <mark key="^" line="68" column="140" />
+      </file>
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" timestamp="1549863414471">
+        <mark key="'" line="6" column="36" />
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+        <mark key="^" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/babel.config.js" timestamp="1549695081926">
         <mark key="[" line="10" column="2" />
@@ -287,11 +294,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549831433074">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549861375807">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
         <mark key="'" line="21" column="3" />
@@ -345,13 +353,18 @@
       <jump line="54" column="20" filename="$USER_HOME$/git/express-api-mysql/myapp/app.js" />
       <jump line="22" column="8" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="17" column="8" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="6" column="36" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -360,34 +373,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZWplY3QocmVzLnNlbmQoW3sic3RhdHVzIjogMjAwLCAiYWN0aW9uIjogbnVsbH1dKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMH1dKQo=</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMCwgImFjdGlvbiI6IG51bGx9XSkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpbWl0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5xdWVyeS5uYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXEucXVlcnkubGltaXQgPT09IHR5cGVvZiAnYScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKFt7InN0YXR1cyI6IDIwMCwgImFjdGlvbiI6IG51bGx9XSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm91dGVyID0gZXhwcmVzcy5Sb3V0ZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0eXBlcyRhcnJheU9mCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgbGV0IG5hbWVUZXN0ID0gImFiY2FiYyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -424,10 +437,10 @@
         <entry>/status</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>/list-group-item</entry>
-        <entry>2</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>:w</entry>
+        <entry>2</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
