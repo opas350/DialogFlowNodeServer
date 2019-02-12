@@ -206,11 +206,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549876736387">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="19" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549962041961">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/.eslintrc.json" timestamp="1516589260097">
         <mark key="[" line="2" column="24" />
@@ -235,12 +235,12 @@
         <mark key="." line="68" column="140" />
         <mark key="^" line="68" column="140" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" timestamp="1549876116163">
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" timestamp="1549962025131">
         <mark key="'" line="6" column="36" />
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="73" />
-        <mark key="^" line="13" column="22" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/babel.config.js" timestamp="1549695081926">
         <mark key="[" line="10" column="2" />
@@ -293,12 +293,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549861375807">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549961401149">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
         <mark key="'" line="21" column="3" />
@@ -361,11 +361,11 @@
       <jump line="31" column="57" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isNameValid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>isNameValid</text>
+        <text>yellow</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -374,34 +374,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmxhZyIgKyBpc05hbWVWYWxpZCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzcG9uc2UgIiArIEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlKSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoYEdFVCAke3JlcS51cmx9YCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbEZsYWcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSXNOYW1lVmFsaWQgOiAgIiArIHJlc3VsdC5pc05hbWVWYWxpZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiUmVzdWx0IDoiICsgSlNPTi5zdHJpbmdpZnkocmVzdWx0LmlzTmFtZVZhbGlkKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNlbmQoW3sic3RhdHVzIjogMjAwLCAiZXJyb3IiOiAiRmlyc3QgTmFtZSBpcyBNYW5kYXRvcnkifV0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhKU09OLnN0cmluZ2lmeShyZXEucXVlcnkpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZXEucXVlcnkuZmlyc3RuYW1lID09PSAnJyl7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhgR0VUICR7cmVxLnVybH1gKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJOQU1FICIgKyBuYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFpbCBmbGFnICIgKyBmYWlsRmxhZyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhgR0VUICR7cmVxLnVybH1gKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZighZmFpbEZsYWcpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5xdWVyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
