@@ -50,6 +50,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="44" column="21" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/css/styles.css" timestamp="1551289712966">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/math.js" timestamp="1542440112825">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="27" />
@@ -63,9 +68,6 @@
       </file>
       <file name="$USER_HOME$/git/example-api-testing/example-api-testing/req.http" timestamp="1544077880139">
         <mark key="[" line="5" column="109" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
-        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/requestExample.js" timestamp="1542438366206">
         <mark key="[" line="7" column="32" />
@@ -181,6 +183,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
+        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/git/SodaBot-Serv/appConstants.js" timestamp="1510544808022">
         <mark key="[" line="0" column="0" />
@@ -361,11 +366,11 @@
       <jump line="31" column="57" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>yellow</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
