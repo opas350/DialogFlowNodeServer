@@ -15,6 +15,12 @@
         <mark key="^" line="45" column="23" />
         <mark key="." line="45" column="23" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/general.js" timestamp="1551335834186">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="/JSON Fragment (serverRequest.http:561).json" timestamp="1544742988598">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,6 +155,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/index.html" timestamp="1551336379195">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="33" />
+        <mark key="^" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+      </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="3" column="19" />
@@ -240,6 +252,12 @@
         <mark key="." line="68" column="140" />
         <mark key="^" line="68" column="140" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/memes.js" timestamp="1551336060754">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" timestamp="1549962025131">
         <mark key="'" line="6" column="36" />
         <mark key="[" line="12" column="0" />
@@ -292,6 +310,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/package.json" timestamp="1551336241707">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="7" column="75" />
+        <mark key="^" line="7" column="75" />
+        <mark key="." line="7" column="75" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/maths.js" timestamp="1542354841001">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -319,6 +343,12 @@
       </file>
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1551336679722">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -367,10 +397,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
