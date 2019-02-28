@@ -310,11 +310,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/package.json" timestamp="1551336241707">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="7" column="75" />
-        <mark key="^" line="7" column="75" />
-        <mark key="." line="7" column="75" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/package.json" timestamp="1551336710989">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/maths.js" timestamp="1542354841001">
         <mark key="[" line="6" column="18" />
@@ -396,8 +396,8 @@
       <jump line="31" column="57" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdGFydFdlYnBhY2siOiAid2VicGFjayBzcmMvanMvbWVtZXMuanMgLS1vdXRwdXQtZmlsZW5hbWUgZGlzdC9tZW1lLmpzIgo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -409,34 +409,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
+        <text encoding="base64">ICAgICJzdGFydFdlYnBhY2siOiAid2VicGFjayBzcmMvanMvbWVtZXMuanMgLS1vdXRwdXQtZmlsZW5hbWUgZGlzdC9tZW1lLmpzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoYEdFVCAke3JlcS51cmx9YCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSXNOYW1lVmFsaWQgOiAgIiArIHJlc3VsdC5pc05hbWVWYWxpZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoYEdFVCAke3JlcS51cmx9YCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiUmVzdWx0IDoiICsgSlNPTi5zdHJpbmdpZnkocmVzdWx0LmlzTmFtZVZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSXNOYW1lVmFsaWQgOiAgIiArIHJlc3VsdC5pc05hbWVWYWxpZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhKU09OLnN0cmluZ2lmeShyZXEucXVlcnkpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiUmVzdWx0IDoiICsgSlNPTi5zdHJpbmdpZnkocmVzdWx0LmlzTmFtZVZhbGlkKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhgR0VUICR7cmVxLnVybH1gKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhKU09OLnN0cmluZ2lmeShyZXEucXVlcnkpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJOQU1FICIgKyBuYW1lKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhgR0VUICR7cmVxLnVybH1gKSk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJOQU1FICIgKyBuYW1lKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5xdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLnllbGxvdyhgR0VUICR7cmVxLnVybH1gKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
