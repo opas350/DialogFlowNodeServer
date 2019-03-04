@@ -15,11 +15,11 @@
         <mark key="^" line="45" column="23" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/general.js" timestamp="1551335834186">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/general.js" timestamp="1551681701904">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/JSON Fragment (serverRequest.http:561).json" timestamp="1544742988598">
         <mark key="[" line="0" column="0" />
@@ -155,11 +155,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/index.html" timestamp="1551336379195">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="33" />
-        <mark key="^" line="51" column="33" />
-        <mark key="." line="51" column="33" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/index.html" timestamp="1551681746387">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="50" column="33" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/package.json" timestamp="1516682955972">
         <mark key="[" line="14" column="23" />
@@ -344,11 +344,11 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1551681495650">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1551681655289">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="25" column="49" />
+        <mark key="^" line="25" column="49" />
+        <mark key="." line="25" column="49" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -397,7 +397,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -409,34 +409,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ01lbWVzIEpTIEZpbGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQ6IF9fZGlybmFtZSwK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ01lbWVzIEpTIEZpbGUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
+        <text encoding="base64">ICAgIGNvbnRleHQ6IF9fZGlybmFtZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzdGFydFdlYnBhY2siOiAid2VicGFjayBzcmMvanMvbWVtZXMuanMgLS1vdXRwdXQtZmlsZW5hbWUgZGlzdC9tZW1lLmpzIgo=</text>
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
+        <text encoding="base64">ICAgICJzdGFydFdlYnBhY2siOiAid2VicGFjayBzcmMvanMvbWVtZXMuanMgLS1vdXRwdXQtZmlsZW5hbWUgZGlzdC9tZW1lLmpzIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoYEdFVCAke3JlcS51cmx9YCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5KSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSXNOYW1lVmFsaWQgOiAgIiArIHJlc3VsdC5pc05hbWVWYWxpZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYWxrLmJsdWUoYEdFVCAke3JlcS51cmx9YCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiUmVzdWx0IDoiICsgSlNPTi5zdHJpbmdpZnkocmVzdWx0LmlzTmFtZVZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSXNOYW1lVmFsaWQgOiAgIiArIHJlc3VsdC5pc05hbWVWYWxpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -478,6 +478,7 @@
         <entry>:w</entry>
         <entry>2</entry>
         <entry>W</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
