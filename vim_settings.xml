@@ -87,6 +87,9 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="44" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/.env.example" timestamp="1551901770718">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/package.json" timestamp="1542354980768">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="23" />
@@ -223,6 +226,9 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/.env" timestamp="1551901713464">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549962041961">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -252,11 +258,11 @@
         <mark key="." line="68" column="140" />
         <mark key="^" line="68" column="140" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/memes.js" timestamp="1551681315510">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/memes.js" timestamp="1551902240123">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" timestamp="1549962025131">
         <mark key="'" line="6" column="36" />
@@ -344,11 +350,12 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1551899336831">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1551902713945">
+        <mark key="'" line="52" column="19" />
+        <mark key="[" line="95" column="5" />
+        <mark key="]" line="95" column="5" />
+        <mark key="." line="95" column="5" />
+        <mark key="^" line="95" column="5" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -394,13 +401,14 @@
       <jump line="6" column="36" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" />
       <jump line="44" column="3" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="31" column="57" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
+      <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwb3BwZXIiOiAiXjEuMC4xIiwK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -409,34 +417,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwb3BwZXIiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
+        <text encoding="base64">ICAgICJwb3BwZXIiOiAiXjEuMC4xIiwK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZW52IjogIl4xLjcuMCIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjguMC41IiwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZW52IjogIl4xLjcuMCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjI2LjMiLAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjguMC41IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjI2LjMiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ01lbWVzIEpTIEZpbGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQ6IF9fZGlybmFtZSwK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ01lbWVzIEpTIEZpbGUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
