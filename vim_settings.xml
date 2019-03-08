@@ -350,13 +350,13 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1552029143119">
-        <mark key="'" line="56" column="19" />
-        <mark key="[" line="87" column="33" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1552029325681">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="38" column="0" />
         <mark key="m" line="35" column="12" />
-        <mark key="]" line="88" column="28" />
-        <mark key="^" line="88" column="28" />
-        <mark key="." line="88" column="28" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -405,8 +405,8 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -418,34 +418,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRXh0cmFjdFRleHRQbHVnaW4oJ3N0eWxlcy5jc3MnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogJ3N0eWxlLWxvYWRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiBNaW5pQ1NTRXh0cmFjdEFzc2V0c1BsdWdpbi5sb2FkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZTogRXh0cmFjdFRleHRQbHVnaW4uZXh0cmFjdCh7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRXh0cmFjdFRleHRQbHVnaW4oJ3N0eWxlcy5jc3MnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgRXh0cmFjdFRleHRQbHVnaW4gPSByZXF1aXJlKCdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogJ3N0eWxlLWxvYWRlcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZTogRXh0cmFjdFRleHRQbHVnaW4uZXh0cmFjdCh7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwb3BwZXIiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">Y29uc3QgRXh0cmFjdFRleHRQbHVnaW4gPSByZXF1aXJlKCdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogJ3N0eWxlLWxvYWRlcicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
