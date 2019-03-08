@@ -350,12 +350,13 @@
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1551902713945">
-        <mark key="'" line="52" column="19" />
-        <mark key="[" line="95" column="5" />
-        <mark key="]" line="95" column="5" />
-        <mark key="." line="95" column="5" />
-        <mark key="^" line="95" column="5" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1552029143119">
+        <mark key="'" line="56" column="19" />
+        <mark key="[" line="87" column="33" />
+        <mark key="m" line="35" column="12" />
+        <mark key="]" line="88" column="28" />
+        <mark key="^" line="88" column="28" />
+        <mark key="." line="88" column="28" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -405,10 +406,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -417,34 +418,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRXh0cmFjdFRleHRQbHVnaW4oJ3N0eWxlcy5jc3MnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwb3BwZXIiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogJ3N0eWxlLWxvYWRlcicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZW52IjogIl4xLjcuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZTogRXh0cmFjdFRleHRQbHVnaW4uZXh0cmFjdCh7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiXjguMC41IiwK</text>
+        <text encoding="base64">Y29uc3QgRXh0cmFjdFRleHRQbHVnaW4gPSByZXF1aXJlKCdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjI2LjMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxsYmFjazogJ3N0eWxlLWxvYWRlcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwb3BwZXIiOiAiXjEuMC4xIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ01lbWVzIEpTIEZpbGUnKTsK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
