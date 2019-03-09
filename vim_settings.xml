@@ -226,8 +226,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/.env" timestamp="1551901713464">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/.env" timestamp="1552165541192">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549962041961">
         <mark key="[" line="50" column="0" />
@@ -405,11 +408,11 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
