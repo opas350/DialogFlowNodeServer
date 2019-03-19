@@ -36,6 +36,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/git/JavaScriptByExample/eventregistration/.env" timestamp="1553016438827">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/db.ts" timestamp="1514680119282">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -197,6 +203,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/JavaScriptByExample/eventregistration/src/js/home.js" timestamp="1553016918150">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
         <mark key="[" line="16" column="3" />
@@ -407,7 +419,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -419,34 +431,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAnc3R5bGUtbG9hZGVyJ2RkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSIiaGFzLWVycm9yIiJzdHlsZTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAnc3R5bGUtbG9hZGVyJ2RkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUNhbnZhcygpOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZEV2ZW50Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSIiaGFzLWVycm9yIiJzdHlsZTwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhDT05TVEFOVF9WQUxVRSkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZUNhbnZhcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhDT05TVEFOVF9WQUxVRSkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZEV2ZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
