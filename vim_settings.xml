@@ -204,11 +204,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExample/eventregistration/src/js/home.js" timestamp="1553016918150">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="32" column="39" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="32" column="39" />
+      <file name="$USER_HOME$/git/JavaScriptByExample/eventregistration/src/js/home.js" timestamp="1553061144695">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="31" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
         <mark key="[" line="16" column="3" />
