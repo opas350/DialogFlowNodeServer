@@ -198,6 +198,9 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
+        <mark key="[" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/deparments.js" timestamp="1549519891177">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -363,8 +366,10 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
-        <mark key="[" line="16" column="3" />
+      <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/src/App.js" timestamp="1555802699993">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
@@ -430,11 +435,11 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Zm9vdGVyPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -443,34 +448,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Zm9vdGVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXBwVXJsID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj17fSAvPkEgPC9mb290ZXI+Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Zvb3Rlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgYXBwVXJsID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9hZGVyOiAnc3R5bGUtbG9hZGVyJ2RkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSIiaGFzLWVycm9yIiJzdHlsZTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
