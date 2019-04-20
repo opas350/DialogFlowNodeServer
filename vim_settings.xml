@@ -366,10 +366,11 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/src/App.js" timestamp="1555802699993">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/src/App.js" timestamp="1555803664804">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="vcs.xml" timestamp="1516606992430">
         <mark key="[" line="0" column="0" />
@@ -435,11 +436,11 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9vdGVyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
