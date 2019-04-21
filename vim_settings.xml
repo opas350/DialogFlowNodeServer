@@ -48,20 +48,6 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/todo/todo.js" timestamp="1544772100641">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="73" column="6" />
-        <mark key="]" line="73" column="14" />
-        <mark key="." line="73" column="14" />
-        <mark key="^" line="73" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/todoList_app/index.html" timestamp="1544916083216">
-        <mark key="'" line="40" column="29" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="44" column="21" />
-      </file>
       <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/css/styles.css" timestamp="1551289712966">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="29" />
@@ -123,12 +109,10 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/app.js" timestamp="1549861830375">
-        <mark key="'" line="49" column="20" />
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555826242572">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -180,6 +164,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555826089627">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -261,6 +251,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/git/ps_rgs/public/index.html" timestamp="1555825550628">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549962041961">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -276,25 +272,11 @@
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/todoList_app/scripts/scripts.js" timestamp="1544865238528">
-        <mark key="'" line="68" column="140" />
-        <mark key="[" line="68" column="140" />
-        <mark key="]" line="68" column="140" />
-        <mark key="." line="68" column="140" />
-        <mark key="^" line="68" column="140" />
-      </file>
       <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/memes.js" timestamp="1552724233952">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="27" column="72" />
         <mark key="." line="27" column="72" />
         <mark key="^" line="27" column="72" />
-      </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/validate.js" timestamp="1549962025131">
-        <mark key="'" line="6" column="36" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/babel.config.js" timestamp="1549695081926">
         <mark key="[" line="10" column="2" />
@@ -359,20 +341,6 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/git/express-api-mysql/myapp/util/datavalidator.js" timestamp="1549961401149">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/docker-compose.yml" timestamp="1544503748125">
-        <mark key="'" line="21" column="3" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-      </file>
       <file name="$USER_HOME$/git/packt-electron-app/src/main.js" timestamp="1554265962578">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="23" />
@@ -405,13 +373,6 @@
         <mark key="m" line="36" column="12" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dadbe4c5-f665-4d7b-9bbe-b87c690b2148/console_1.sql" timestamp="1549703338258">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="3" column="61" />
-        <mark key="^" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/test/serverTest.js" timestamp="1543473302524">
         <mark key="[" line="37" column="20" />
@@ -460,11 +421,11 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -473,34 +434,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj17Ii9wdWJsaWMvZmlyc3Rjb21wb25lbnQifSA+QSA8L2E+Cg==</text>
+        <text encoding="base64">ICAgIHRleHQK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJ0ZXN0Ij48L2Rpdj4K</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3RET00gZnJvbSAicmVhY3QtZG9tIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9vdGVyPgo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj17fSAvPkEgPC9mb290ZXI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Zvb3Rlcj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXBwVXJsID0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -541,8 +502,8 @@
         <entry>wq</entry>
         <entry>:w</entry>
         <entry>2</entry>
-        <entry>W</entry>
         <entry>wa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
