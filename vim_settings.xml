@@ -165,11 +165,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555869706428">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555877286469">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -427,43 +428,14 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
       <jump line="13" column="0" filename="$USER_HOME$/git/ps_rgs/src/styles.css" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ps_rgs/src/styles.css" />
+      <jump line="37" column="24" filename="$USER_HOME$/git/ps_rgs/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/* Ner
-/* Nerdy secret: You can use &quot;less&quot; below! Don't tell anybody... */
-
-.github-profile {
-    margin: 1rem;
-img {
-    width: 75px;
-}
-.info {
-    display: inline-block;
-    margin-left: 12px;
-.name {
-    font-size: 1.25rem;
-}
-}
-}
-
-form {
-    border: thin solid #ddd;
-    background-color: #fbfbfb;
-    padding: 2rem;
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-}
-
-.header {
-    text-align: center;
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZCB7Li4udGVzdERhdGFbMV19Lz4K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -471,7 +443,25 @@ form {
       <register name="0" type="4">
         <text>S</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZCB7Li4udGVzdERhdGFbMV19Lz4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZCB7Li4udGVzdERhdGFbMF19Lz4K</text>
+      </register>
+      <register name="r" type="4">
+        <text />
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gLyoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>/* Ner
 /* Nerdy secret: You can use &quot;less&quot; below! Don't tell anybody... */
 
@@ -504,56 +494,14 @@ form {
     margin-bottom: 1rem;
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
-      <register name="r" type="4">
-        <text />
-      </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LmhlYWRlciB7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS41cmVtOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDFyZW07Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>dy secret: You can use &quot;less&quot; below! Don't tell anybody... */
-
-.github-profile {
-    margin: 1rem;
-}
-img {
-    width: 75px;
-}
-.info {
-    display: inline-block;
-    margin-left: 12px;
-}
-.name {
-    font-size: 1.25rem;
-    font-weight: bold;
-}
-
-form {
-    border: thin solid #ddd;
-    background-color: #fbfbfb;
-    padding: 2rem;
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-}</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
