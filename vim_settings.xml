@@ -109,10 +109,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555826242572">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555866200492">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -165,10 +166,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555827178388">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555866107197">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -250,11 +252,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/public/index.html" timestamp="1555826737571">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/git/ps_rgs/public/index.html" timestamp="1555866416221">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+        <mark key="^" line="6" column="63" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549962041961">
         <mark key="[" line="50" column="0" />
@@ -426,11 +428,11 @@
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8QmxvY2tTY29wZXMgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Scopes</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -439,34 +441,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8QmxvY2tTY29wZXMgLz4K</text>
+        <text encoding="base64">LkFwcCB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgQmxvY2tTY29wZXMgZnJvbSAiYmxvY2tTY29wZXMiCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRleHQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3RET00gZnJvbSAicmVhY3QtZG9tIjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
+        <text encoding="base64">LkFwcCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
