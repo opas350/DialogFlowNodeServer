@@ -165,11 +165,10 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555826089627">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555827178388">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -251,11 +250,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/public/index.html" timestamp="1555825550628">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/git/ps_rgs/public/index.html" timestamp="1555826737571">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" timestamp="1549962041961">
         <mark key="[" line="50" column="0" />
@@ -358,6 +357,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/git/ps_rgs/src/blockScopes.js" timestamp="1555827104291">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/src/App.js" timestamp="1555823097164">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="24" />
@@ -422,10 +427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
+        <text encoding="base64">ICAgICAgICA8QmxvY2tTY29wZXMgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Scopes</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -434,31 +439,31 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
+        <text encoding="base64">ICAgICAgICA8QmxvY2tTY29wZXMgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRleHQK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgQmxvY2tTY29wZXMgZnJvbSAiYmxvY2tTY29wZXMiCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3RET00gZnJvbSAicmVhY3QtZG9tIjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
+        <text encoding="base64">ICAgIHRleHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3RET00gZnJvbSAicmVhY3QtZG9tIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
