@@ -109,11 +109,10 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555866200492">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555869436163">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -166,11 +165,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555866107197">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555869538886">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -426,13 +425,45 @@
       <jump line="44" column="3" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="31" column="57" filename="$USER_HOME$/git/express-api-mysql/myapp/routes/users.js" />
       <jump line="49" column="19" filename="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/git/ps_rgs/src/styles.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ps_rgs/src/styles.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>/* Ner
+/* Nerdy secret: You can use &quot;less&quot; below! Don't tell anybody... */
+
+.github-profile {
+    margin: 1rem;
+img {
+    width: 75px;
+}
+.info {
+    display: inline-block;
+    margin-left: 12px;
+.name {
+    font-size: 1.25rem;
+}
+}
+}
+
+form {
+    border: thin solid #ddd;
+    background-color: #fbfbfb;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -440,35 +471,89 @@
       <register name="0" type="4">
         <text>S</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LkFwcCB7Cg==</text>
+      <register name="1" type="4">
+        <text>/* Ner
+/* Nerdy secret: You can use &quot;less&quot; below! Don't tell anybody... */
+
+.github-profile {
+    margin: 1rem;
+img {
+    width: 75px;
+}
+.info {
+    display: inline-block;
+    margin-left: 12px;
+.name {
+    font-size: 1.25rem;
+}
+}
+}
+
+form {
+    border: thin solid #ddd;
+    background-color: #fbfbfb;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">LmhlYWRlciB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGJsYWNrOwo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS41cmVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDFyZW07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LkFwcCB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOwo=</text>
+      <register name="8" type="4">
+        <text>dy secret: You can use &quot;less&quot; below! Don't tell anybody... */
+
+.github-profile {
+    margin: 1rem;
+}
+img {
+    width: 75px;
+}
+.info {
+    display: inline-block;
+    margin-left: 12px;
+}
+.name {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+form {
+    border: thin solid #ddd;
+    background-color: #fbfbfb;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -505,12 +590,12 @@
         <entry>/status</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>/list-group-item</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>:w</entry>
         <entry>2</entry>
         <entry>wa</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
