@@ -166,12 +166,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555911075796">
-        <mark key="'" line="83" column="12" />
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-        <mark key="^" line="83" column="21" />
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555912628467">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="75" column="34" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -436,7 +435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -448,34 +447,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiA+Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgQmxvY2tTY29wZXMgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxCbG9ja1Njb3Blcy8+LCByb290RWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgcm9vdEVsZW1lbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgic2NvcGVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICA8QmxvY2tTY29wZXMgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
