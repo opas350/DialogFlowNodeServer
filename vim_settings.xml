@@ -165,12 +165,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555893894907">
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555905541741">
         <mark key="'" line="48" column="23" />
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="3" />
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="40" />
+        <mark key="." line="35" column="40" />
+        <mark key="^" line="35" column="40" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
       </register>
       <register name="-" type="4">
-        <text>testData</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -445,34 +445,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVzZXJOYW1lSW5wdXQuY3VycmVudC52YWx1ZSkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZXM6IHRlc3REYXRhLAo=</text>
+        <text encoding="base64">ICAgIHVzZXJOYW1lSW5wdXQgPSBSZWFjdC5jcmVhdGVSZWYoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJOYW1lSW5wdXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcm9maWxlID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
