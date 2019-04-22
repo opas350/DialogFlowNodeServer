@@ -166,12 +166,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555906512725">
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555908611270">
         <mark key="'" line="48" column="23" />
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+        <mark key="^" line="13" column="62" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -434,10 +434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>Scale</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Scale</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -446,34 +446,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICpvcyBmcm9tICJheGlvcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQXBwJywgcHJvZmlsZURhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmRhdGEpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0ICpvcyBmcm9tICJheGlvcyI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVzZXJOYW1lSW5wdXQuY3VycmVudC52YWx1ZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJOYW1lSW5wdXQgPSBSZWFjdC5jcmVhdGVSZWYoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -515,8 +515,8 @@
         <entry>2</entry>
         <entry>wa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
