@@ -109,10 +109,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555869436163">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/ps_rgs/src/styles.css" timestamp="1555906058652">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/safeCar-Serv/functions/package.json" timestamp="1517128927501">
         <mark key="[" line="6" column="22" />
@@ -165,12 +166,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555905541741">
+      <file name="$USER_HOME$/git/ps_rgs/src/index.js" timestamp="1555906512725">
         <mark key="'" line="48" column="23" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="35" column="40" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/controllers/OrderController.ts" timestamp="1514593144042">
         <mark key="[" line="5" column="6" />
@@ -432,11 +433,11 @@
       <jump line="48" column="23" filename="$USER_HOME$/git/ps_rgs/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -445,34 +446,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
+        <text encoding="base64">aW1wb3J0ICpvcyBmcm9tICJheGlvcyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVzZXJOYW1lSW5wdXQuY3VycmVudC52YWx1ZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJOYW1lSW5wdXQgPSBSZWFjdC5jcmVhdGVSZWYoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJOYW1lSW5wdXQ7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWY9e3RoaXMudXNlck5hbWVJbnB1dH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnVzZXJOYW1lSW5wdXQuY3VycmVudC52YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHVzZXJOYW1lSW5wdXQgPSBSZWFjdC5jcmVhdGVSZWYoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -513,9 +514,9 @@
         <entry>:w</entry>
         <entry>2</entry>
         <entry>wa</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
