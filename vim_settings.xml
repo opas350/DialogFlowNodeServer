@@ -21,9 +21,6 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="/JSON Fragment (serverRequest.http:561).json" timestamp="1544742988598">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/src/orderDB/orderDB.js" timestamp="1514164304743">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="10" column="40" />
@@ -64,8 +61,10 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/git/example-api-testing/example-api-testing/req.http" timestamp="1544077880139">
-        <mark key="[" line="5" column="109" />
+      <file name="$USER_HOME$/git/cliexampleoclif/example-cli/src/commands/hello.js" timestamp="1556079214866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-b/requestExample.js" timestamp="1542438366206">
         <mark key="[" line="7" column="32" />
@@ -79,9 +78,6 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/git/JavaScriptByExampleMeme/.env.example" timestamp="1551901770718">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/public/index.html" timestamp="1555824133403">
         <mark key="[" line="40" column="14" />
         <mark key="]" line="40" column="14" />
@@ -93,9 +89,6 @@
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/sodaBot-Repo2/package.json" timestamp="1517910156052">
-        <mark key="[" line="9" column="57" />
       </file>
       <file name="$USER_HOME$/git/todoList_app/src/scripts.js" timestamp="1544865681021">
         <mark key="[" line="68" column="78" />
@@ -195,9 +188,6 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" timestamp="1544077873181">
-        <mark key="[" line="16" column="3" />
-      </file>
       <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/src/FirstComponentDummy.js" timestamp="1555824009932">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="15" />
@@ -215,12 +205,6 @@
         <mark key="]" line="23" column="31" />
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/SodaBot-Serv/appConstants.js" timestamp="1510544808022">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1516607016719">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/db.js" timestamp="1544682165027">
         <mark key="[" line="7" column="24" />
@@ -270,9 +254,6 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/.env" timestamp="1544425629749">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/memes.js" timestamp="1552724233952">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="27" column="72" />
@@ -291,9 +272,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/a.sql" timestamp="1549617598237">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ps_gettingstarted_react/ps-app/src/Firstcomponentdummy.js" timestamp="1555823875843">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="20" />
@@ -311,12 +289,6 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
-      </file>
-      <file name="/dummy.sql" timestamp="1549617607514">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549442111827">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/lesson1/activity-a/index.js" timestamp="1542354371649">
         <mark key="[" line="0" column="28" />
@@ -370,9 +342,6 @@
         <mark key="]" line="23" column="24" />
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
-      </file>
-      <file name="vcs.xml" timestamp="1516606992430">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/JavaScriptByExampleMeme/webpack.config.js" timestamp="1552725939373">
         <mark key="'" line="51" column="19" />
@@ -435,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Command</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -447,34 +416,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiA+Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbW1hbmQgZnJvbSAiQG9jbGlmL2NvbW1hbmQiOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvCg==</text>
+        <text encoding="base64">Y29uc3Qge0NvbW1hbmQsIGZsYWdzfSA9IHJlcXVpcmUoJ0BvY2xpZi9jb21tYW5kJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8QmxvY2tTY29wZXMgLz4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgQ29tbWFuZCA9IHJlcXVpcmUoIkBvY2xpZi9jb21tYW5kIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IENvbW1hbmQgZnJvbSAiQG9jbGlmL2NvbW1hbmQiQ29tbWFuZDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
