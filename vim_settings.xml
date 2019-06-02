@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/rasp_gpio/src/index.js" timestamp="1559442407037">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="31" />
+      <file name="$USER_HOME$/git/rasp_gpio/src/index.js" timestamp="1559443012974">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/git/sodaBot-Repo2/functions/package.json" timestamp="1517910165272">
         <mark key="[" line="17" column="0" />
@@ -260,11 +260,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/git/rasp_gpio/package.json" timestamp="1559440175741">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="7" column="30" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="7" column="30" />
+      <file name="$USER_HOME$/git/rasp_gpio/package.json" timestamp="1559443031060">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/git/JavaScriptByExampleMeme/src/js/memes.js" timestamp="1552724233952">
         <mark key="[" line="23" column="5" />
@@ -308,7 +308,7 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559442448694">
+      <file name="/Dummy.txt" timestamp="1559443035953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Packt-Beginning-API-Development-with-NodeJS/ch2/server.js" timestamp="1543465448681">
@@ -418,11 +418,11 @@
       <jump line="82" column="12" filename="$USER_HOME$/git/ps_rgs/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>list-group-item</text>
@@ -431,34 +431,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENvbW1hbmQgZnJvbSAiQG9jbGlmL2NvbW1hbmQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qge0NvbW1hbmQsIGZsYWdzfSA9IHJlcXVpcmUoJ0BvY2xpZi9jb21tYW5kJykK</text>
+        <text encoding="base64">aW1wb3J0IENvbW1hbmQgZnJvbSAiQG9jbGlmL2NvbW1hbmQiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qge0NvbW1hbmQsIGZsYWdzfSA9IHJlcXVpcmUoJ0BvY2xpZi9jb21tYW5kJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgQ29tbWFuZCA9IHJlcXVpcmUoIkBvY2xpZi9jb21tYW5kIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgQ29tbWFuZCA9IHJlcXVpcmUoIkBvY2xpZi9jb21tYW5kIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvbW1hbmQgZnJvbSAiQG9jbGlmL2NvbW1hbmQiQ29tbWFuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtCbG9ja1Njb3Blc30gZnJvbSAiYmxvY2tTY29wZXMiOwo=</text>
+        <text encoding="base64">aW1wb3J0IENvbW1hbmQgZnJvbSAiQG9jbGlmL2NvbW1hbmQiQ29tbWFuZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
